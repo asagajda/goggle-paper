@@ -31,7 +31,7 @@ GP.PaperTracker = function(options){
 	this.canvas;
 	this.context;
 
-  this.camDirection = 'front'; // back
+  this.camDirection = 'back'; // front
 
 	this.imageData;
 
